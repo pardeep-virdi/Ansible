@@ -9,6 +9,8 @@ It is agentless .There's no need to install Ansible in the target hosts. It will
 Use SSH  to connecto to host
 
 Terminology:-
+
+
 a. playbook :- A playbook consists of simple set of steps called tasks that run on remote machines defined in inventory file.  Files in YAML format that instruct Ansible on what to do
 
 
